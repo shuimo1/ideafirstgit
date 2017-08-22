@@ -9,6 +9,7 @@ public class TestDemo {
 		int y=x+1;
 		int sim=++x+y;
 		System.out.println(sim);
+		print();
 	}
 	public static  void print(){
 		System.out.println("test push");
