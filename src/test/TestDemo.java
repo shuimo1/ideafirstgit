@@ -13,5 +13,6 @@ public class TestDemo {
 	}
 	public static  void print(){
 		System.out.println("test push");
+		System.out.println("class push");
 	}
 }
